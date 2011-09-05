@@ -1,0 +1,200 @@
+
+<% content_for :head do %>  
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+  <script type="text/javascript">
+  
+    function initialize() {
+      var myLatlng = new google.maps.LatLng(47.754098,-122.387695);
+      var myOptions = {
+        zoom: 8,
+        center: myLatlng,
+        mapTypeId: google.maps.MapTypeId.HYBRID
+      }
+      
+      var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+      
+      var flock_pos =   new google.maps.LatLng(47.618918,-122.351217);
+      var flockString = '<div class="info"> <a href="flock/flock.htm"><b><em>Flock</em></b> </a><br />Located in the Pacific Science Center at Seattle Center. It is looking a little ragged and has not been maintained, but it still functions. </div>';     
+      var flockInfo = new google.maps.InfoWindow({
+          content: flockString
+      });
+
+      var skagit_pos =  new google.maps.LatLng(48.436116,-122.310625);
+      var skagitString = '<div class="info"> <a href="skagit/skagit.htm"><b><em>Fractal Tree Archway</em></b></a> <br /> Take the College Way exit from I-5. Located at the entrance to Angst Hall on Skagit Valley College campus. Several great pubs are located downtown Mount Vernon. Take the Arlington exit from I-5 to Darrington for a great drive along the Mountain Loop Highway.<br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=2598+East+College+Way,+Mount+Vernon,+Washington&aq=&sll=47.384656,-122.237754&sspn=0.000824,0.002548&ie=UTF8&hq=&hnear=2598+E+College+Way,+Mt+Vernon,+Skagit,+Washington+98273&t=h&z=16" target="none"><br />Get Directions</a><br /></div>';     
+      var skagitInfo = new google.maps.InfoWindow({
+          content: skagitString
+      });
+      
+      var pratt_pos =   new google.maps.LatLng(47.601407,-122.30709);
+      var prattString = '<div class="info"> <a href="treeBench/treeBench.htm"><b><em>Tree Bench</em></b></a> <br />At Pratt Park near 20th Ave E and Yesler (just head up Yesler from Pioneer Square). Great cafe across the street. Pratt Fine Arts Center is worth a visit on the east side of the park. </div>';     
+      var prattInfo = new google.maps.InfoWindow({
+          content: prattString
+      });
+ 
+      var locks_pos =   new google.maps.LatLng(47.664672,-122.39744);
+      var locksString = '<div class="info"> <a href="salmonWaves/salmon.htm"><b><em>Salmon Waves</em></b></a> <br /> Near the fish ladder at Hiram Chittenden Locks. Access from Magnolia (easiest) or from the main entrance in Ballard. Open until 9pm every day. Visit at dusk to see the fish images.<br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=3040+West+Commodore+Way,+Seattle,+WA&aq=0&sll=47.664535,-122.399211&sspn=0.000414,0.001274&ie=UTF8&hq=&hnear=3040+W+Commodore+Way,+Seattle,+King,+Washington+98199&ll=47.663567,-122.396783&spn=0.00328,0.010192&t=h&z=17" target="none"><br />Get Directions (Magnolia side)</a><br /></div>';     
+      var locksInfo = new google.maps.InfoWindow({
+          content: locksString
+      });
+
+      var kent_pos =    new google.maps.LatLng(47.384384,-122.237846);
+      var kentString = '<div class="info"> <a href="rjc/justice.htm"><b><em>Justice Garden Path</em></b></a> <br /> Front entrance to the King County Regional Justice Center in Kent.<br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=355+4th+Avenue+North,+Kent,+Washington&aq=&sll=39.248779,-93.079992&sspn=30.77447,83.496094&ie=UTF8&hq=&hnear=355+4th+Ave+N,+Kent,+King,+Washington+98032&t=h&z=15" target="none"><br />Get Directions</a><br /></div>';     
+      var kentInfo = new google.maps.InfoWindow({
+          content: kentString
+      });
+
+      var auburn_pos =  new google.maps.LatLng(47.307386,-122.230978);
+      var auburnString = '<div class="info"> <a href="auburn/auburn.htm"><b><em>Catch the Train</em></b></a> <br /> Eleven figures scattered within a block of Main and A Street and the Sound Transit train station in downtown Auburn.<br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=a+street+southwest+%26+w+main+street,+auburn,+wa&aq=&sll=47.306968,-122.231014&sspn=0.000416,0.001274&ie=UTF8&hq=&hnear=W+Main+St+%26+A+St+SW,+Auburn,+King,+Washington+98001&ll=47.307387,-122.230708&spn=0.000826,0.002548&t=h&z=19" target="none"><br />Get Directions</a><br /></div>';     
+      var auburnInfo = new google.maps.InfoWindow({
+          content: auburnString
+      });
+
+      var pacific_pos = new google.maps.LatLng(47.264497,-122.249693);
+      var pacificString = '<div class="info"> <a href="pacific/pacific.htm"><b><em>Pacific Fountain</em></b></a> <br /> Located in front of Pacific City Hall (formerly the school house).<br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=a+street+southwest+%26+w+main+street,+auburn,+wa&aq=&sll=47.306968,-122.231014&sspn=0.000416,0.001274&ie=UTF8&hq=&hnear=W+Main+St+%26+A+St+SW,+Auburn,+King,+Washington+98001&ll=47.307387,-122.230708&spn=0.000826,0.002548&t=h&z=19" target="none"><br />Get Directions</a><br /></div>';     
+      var pacificInfo = new google.maps.InfoWindow({
+          content: pacificString
+      });
+      
+      var spana_pos =   new google.maps.LatLng(47.077525,-122.365068);
+      var spanaString = '<div class="info"> <a href="pierceCo/pierce.htm"><b><em>RoadWorks</em></b></a> <br /> Located just inside the main entrance to Pierce County Roadway Maintenance Central Maintenance Facility in Spanaway, near Tacoma, WA. Building is open to the public from 6am to 4:30pm, Mon-Fri.<br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=4812+196th+Street+Spanaway,+WA+98387&aq=&sll=37.0625,-95.677068&sspn=31.646818,83.496094&ie=UTF8&hq=&hnear=4812+196th+St+E,+Spanaway,+Pierce,+Washington+98387&t=h&z=16" target="none"><br />Get Directions</a><br /></div>';     
+      var spanaInfo = new google.maps.InfoWindow({
+          content: spanaString
+      });
+            
+      var dogwood_pos = new google.maps.LatLng(47.75575,-122.287193);
+      var dogwoodString = '<div class="info"> <a href="dogwood/dogwood.htm"><b><em>Dogwood Flower Fountain</em></b></a> <br /> Located in Animal Acres Park in Lake Forest Park, WA.  Walk yourself and your dog, then both of you can have a cool drink of water. There&apos;s a great bookstore-cafe in the shopping center nearby. <br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=17402+Brookside+Boulevard+Northeast,+Lake+Forest+Park,+Wa&aq=&sll=37.0625,-95.677068&sspn=31.646818,83.496094&ie=UTF8&hq=&hnear=17402+Brookside+Blvd+NE,+Lake+Forest+Park,+King,+Washington+98155&t=h&z=16" target="none"><br />Get Directions</a><br /></div>';     
+      var dogwoodInfo = new google.maps.InfoWindow({
+          content: dogwoodString
+      });
+           
+      var bonney_pos =  new google.maps.LatLng(47.149807,-122.131189);
+      var bonneyString = '<div class="info"> <a href="cribbage/cribbage.htm"><b><em>Cribbage Benches</em></b></a> <br /> Located at the Pierce County Roads Division East Maintenance Facility in Bonney Lake, WA.  Accessible 24/7, but during business hours you can get the pegs to play a game of Giant Cribbage from the front desk inside the building. <br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=11711+Prairie+Ridge+Drive+East+Bonney+Lake,+WA+98391&aq=&sll=47.706065,-122.209167&sspn=0.839116,2.609253&ie=UTF8&hq=&hnear=11711+Prairie+Ridge+Dr+E,+Bonney+Lake,+Pierce,+Washington+98391&t=h&z=16" target="none"><br />Get Directions</a><br /></div>';     
+      var bonneyInfo = new google.maps.InfoWindow({
+          content: bonneyString
+      });
+
+      var coffee_pos =  new google.maps.LatLng(47.717709,-122.296414);
+      var coffeeString = '<div class="info"> <a href="coffeePot/coffee.htm"><b><em>Coffee Pot Pergola</em></b></a> <br /> Located on Lake City Way at 30th Ave NE in Seattle, WA. The glass globe on top lights up at night. There are several take-out eating establishments nearby. <br /><br /> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=30th+ave+ne+%26+lake+city+way+ne,+seattle,+wa&aq=&sll=37.0625,-95.677068&sspn=31.646818,83.496094&ie=UTF8&hq=&hnear=Lake+City+Way+NE+%26+30th+Ave+NE,+Seattle,+King,+Washington+98125&ll=47.717659,-122.296127&spn=0.000819,0.002548&t=h&z=19" target="none"><br />Get Directions</a><br /></div>';     
+      var coffeeInfo = new google.maps.InfoWindow({
+          content: coffeeString
+      });
+      
+      var pratt = new google.maps.Marker({
+          position: pratt_pos, 
+          map: map,
+          title:"Tree Bench"
+      });
+      
+      var skagit = new google.maps.Marker({
+          position: skagit_pos, 
+          map: map,
+          title:"Fractal Tree Archway"
+      });
+      
+      var flock = new google.maps.Marker({
+          position: flock_pos, 
+          map: map,
+          title:"Flock"
+      });
+      
+      var locks = new google.maps.Marker({
+          position: locks_pos, 
+          map: map,
+          title:"Salmon Waves"
+      });
+      
+      var kent = new google.maps.Marker({
+          position: kent_pos, 
+          map: map,
+          title:"Justice Garden Path"
+      });
+      
+      var auburn = new google.maps.Marker({
+          position: auburn_pos, 
+          map: map,
+          title:"Catch the Train!"
+      });
+      
+      var spana = new google.maps.Marker({
+          position: spana_pos, 
+          map: map,
+          title:"RoadWorks"
+      });
+      
+      var pacific = new google.maps.Marker({
+          position: pacific_pos, 
+          map: map,
+          title:"Pacific Fountain"
+      });
+      
+      var dogwood = new google.maps.Marker({
+          position: dogwood_pos, 
+          map: map,
+          title:"Dogwood Flower Fountain"
+      });
+      
+      var bonney = new google.maps.Marker({
+          position: bonney_pos, 
+          map: map,
+          title:"Cribbage Benches"
+      });
+      
+      var coffee = new google.maps.Marker({
+          position: coffee_pos, 
+          map: map,
+          title:"Coffee Pot Pergola"
+      });
+      
+      google.maps.event.addListener(flock, 'click', function() {
+        flockInfo.open(map,flock);
+      });
+      google.maps.event.addListener(skagit, 'click', function() {
+        skagitInfo.open(map,skagit);
+      });
+      google.maps.event.addListener(locks, 'click', function() {
+        locksInfo.open(map,locks);
+      });
+      google.maps.event.addListener(pratt, 'click', function() {
+        prattInfo.open(map,pratt);
+      });
+      google.maps.event.addListener(kent, 'click', function() {
+        kentInfo.open(map,kent);
+      });
+      google.maps.event.addListener(auburn, 'click', function() {
+        auburnInfo.open(map,auburn);
+      });
+      google.maps.event.addListener(pacific, 'click', function() {
+        pacificInfo.open(map,pacific);
+      });
+      google.maps.event.addListener(spana, 'click', function() {
+        spanaInfo.open(map,spana);
+      });
+      google.maps.event.addListener(dogwood, 'click', function() {
+        dogwoodInfo.open(map,dogwood);
+      });
+      google.maps.event.addListener(bonney, 'click', function() {
+        bonneyInfo.open(map,bonney);
+      });
+      google.maps.event.addListener(coffee, 'click', function() {
+        coffeeInfo.open(map,coffee);
+      });
+  
+    }
+    
+  </script>
+  <% end %>
+  
+  </head>
+  <body onload="initialize()">
+    
+    <h2>Artwork Locations</h2>
+     
+    <div id="map_canvas"></div>
+    <h4>(mouse-over markers for artwork title.)</h4>
+  
+
+  
+  </body>
+</html>
+
+

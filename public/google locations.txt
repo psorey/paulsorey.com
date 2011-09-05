@@ -1,0 +1,24 @@
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=48.436116,-122.310625&spn=0.000706,0.001212&t=h&z=19
+48.436116,-122.310625 skag
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.75575,-122.287193&spn=0.000716,0.001212&t=h&z=19
+47.75575,-122.287193 dog
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.717709,-122.296414&spn=0.000358,0.000606&t=h&z=20
+47.717709,-122.296414 coffee
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.664672,-122.39744&spn=0.000359,0.000606&t=h&z=20
+47.664672,-122.39744 locks
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.618918,-122.351217&spn=0.000718,0.001212&t=h&z=19
+47.618918,-122.351217 flock
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.601407,-122.30709&spn=0.000359,0.000606&t=h&z=20
+47.601407,-122.30709 tree
+http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=11711+Prairie+Ridge+Drive+East,+Bonney+Lake,+WA&aq=0&sll=47.160803,-122.190886&sspn=0.011643,0.019398&ie=UTF8&hq=&hnear=11711+Prairie+Ridge+Dr+E,+Bonney+Lake,+Pierce,+Washington+98391&ll=47.149807,-122.131189&spn=0.000364,0.000606&t=h&z=20
+47.149807,-122.131189 cribb
+http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=11711+Prairie+Ridge+Drive+East,+Bonney+Lake,+WA&aq=0&sll=47.160803,-122.190886&sspn=0.011643,0.019398&ie=UTF8&hq=&hnear=11711+Prairie+Ridge+Dr+E,+Bonney+Lake,+Pierce,+Washington+98391&ll=47.149732,-122.131147&spn=0.001456,0.002425&t=h&z=18
+47.149732,-122.131147 cribb
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.307386,-122.230978&spn=0.000338,0.000809&t=h&z=20
+47.307386,-122.230978 auburn
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.264497,-122.249693&spn=0.000331,0.00059&t=h&z=20
+47.264497,-122.249693 pacific
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.384384,-122.237846&spn=0.000661,0.00118&t=h&z=19
+47.384384,-122.237846 rjc
+http://maps.google.com/maps?hl=en&ie=UTF8&ll=47.077525,-122.365068&spn=0.000332,0.00059&t=h&z=20
+47.077525,-122.365068 roadworks
