@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Komodo Project File - DO NOT EDIT -->
-<project id="d5dd2526-1021-47df-b7f4-221669b6aaf1" kpf_version="4" name="paulsorey.com.kpf">
-<livefolder id="d5dd2526-1021-47df-b7f4-221669b6aaf1/public/cribbage" idref="d5dd2526-1021-47df-b7f4-221669b6aaf1/public" name="cribbage" url="file:///home/paul/MyWebPage-CURRENT/cribbage">
-</livefolder>
-<preference-set idref="d5dd2526-1021-47df-b7f4-221669b6aaf1">
-  <boolean id="import_live">1</boolean>
-</preference-set>
-</project>
