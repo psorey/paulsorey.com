@@ -1,15 +1,20 @@
 
-html {
-    padding-top: 0px;
-    margin-top: 0px;
-}
+
+
+
+
+@font-face {
+  font-family: "Junction";
+  src: local("☺"),
+    url("Junction 02.otf") format("opentype");
+  }
 
 body {
-    font-family:"Times New Roman", Times, serif;
+    font-family:"Junction","Times New Roman", Times, serif;
     color: #99ff99;
     background-color: #222222;
     width:99%;
-    padding-top: 0px;
+    padding-top: 25px;
     margin-top: 15px;
 }
 
@@ -81,7 +86,7 @@ h1 {
     color: #00ae00;
     font-size: 50px;
     text-align: center;
-    font-weight: lighter;
+    font-weight: bold;
     font-style: italic;
     margin-bottom: 5px;
     margin-top: 0px;
