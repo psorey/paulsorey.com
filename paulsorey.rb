@@ -1,23 +1,38 @@
 require 'sinatra'
 require 'erb'
 require 'sinatra/outputbuffer'
+require 'haml'
+require 'sass'
+require 'sass/plugin'
 
 
 get '/' do
+  Encoding.default_internal = nil
   erb :index
 end
+
+
+get '/mystyle.css' do
+  Encoding.default_internal = nil
+  content_type 'text/css', :charset => 'utf-8'
+  scss :mystyle
+end
+
 
 get '/SalmonWaves' do
   erb :salmon
 end
 
+
 get '/FractalTreeArchway' do
   erb :skagit
 end
 
+
 get '/RoadWorks' do
   erb :pierce
 end
+
 
 get '/Flock' do
   erb :flock
@@ -27,9 +42,11 @@ get '/CoffeePotPergola' do
   erb :coffee
 end
 
+
 get '/TreeBench' do
   erb :treeBench
 end
+
 
 get '/JusticeGardenPath' do
   erb :justice
@@ -39,9 +56,11 @@ get '/CribbageBenches' do
   erb :cribbage
 end
 
+
 get '/PacificFountain' do
   erb :pacific
 end
+
 
 get '/DogwoodFountain' do
   erb :dogwood
@@ -51,21 +70,26 @@ get '/AuburnFigures' do
   erb :auburn
 end
 
+
 get '/LongfellowCreek' do
   erb :longfellow
 end
+
 
 get '/SustainabilityArtwork' do
   erb :sustainability
 end
 
+
 get '/FlowerSculpture' do
   erb :horns
 end
 
+
 get '/TreeBenchVideo' do
   erb :treeBenchVideo
 end
+
 
 get '/ArtworkLocations' do
   erb :locations

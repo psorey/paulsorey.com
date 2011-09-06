@@ -1,0 +1,160 @@
+
+$lt_green: #77cc77;
+$dk_green: #449944;
+$bg_color: #222222;
+
+
+
+@font-face {
+  font-family: "Junction";
+  src: local("!"),
+    url("Junction 02.otf") format("opentype");
+}
+
+body {
+    font-family:"Junction","Times New Roman", Times, serif;
+    text-shadow: 2px 2px 2px #000;
+    color: $lt_green;
+    background-color: $bg_color;
+    width:99%;
+    padding-top: 25px;
+    margin-top: 15px;
+}
+
+
+div.menu
+{
+  position:fixed;
+  top:50px;
+  left:30px;    
+
+	/*float:left;
+	width:160px;*/
+	margin:0px;
+  padding: 0px;
+  font-size: 16px;
+}
+
+
+div.content
+{
+    margin-top: 0px;
+    padding-top: 0px;
+	/*margin-left:128px;*/
+}
+
+img {
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    border: solid;
+    border-width: 8px;
+    border-color: #000000;
+}
+
+a img {
+    border-color: #000000;
+    border-width: 5px;
+    margin-bottom: 8px;
+}
+
+a {
+    color: $dk_green;
+    text-decoration: none;
+}
+
+a.info{
+    text-decoration: underline;
+}
+
+a:link      { color: $dk_green; }
+a:hover img { border-color: $lt_green; border-width: 5px;}
+a:hover     { color: $lt_green; }
+
+#map_canvas {
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    border: solid;
+    border-width: 8px;
+    border-color: #000000;
+    height: 500px;
+    width: 400px;
+}
+
+div.info {
+    color: #000000;
+    font-size: 14px;
+}
+
+h1 {
+    color: $dk_green;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h4 {
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 4px;
+}
+
+
+
+div.bold_text {
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    font-style: italic;
+    width: 60%;
+}
+
+div.description_text {
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+    width: 60%;
+}
+
+div.photo_index {
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 26px;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: none;
+    font-style: italic;
+    width: 400px;    
+}
+
