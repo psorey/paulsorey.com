@@ -3,18 +3,14 @@ require 'erb'
 require 'sinatra/outputbuffer'
 require 'haml'
 require 'sass'
-require 'sass/plugin'
 
 
 get '/' do
-  Encoding.default_internal = nil
   erb :index
 end
 
 
 get '/mystyle.css' do
-  Encoding.default_internal = nil
-  content_type 'text/css', :charset => 'utf-8'
   scss :mystyle
 end
 
