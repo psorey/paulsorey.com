@@ -9,6 +9,45 @@ get '/' do
   erb :index
 end
 
+get '/' do
+  "hello #{($~).first}"
+  #erb ($~).first.downcase.to_sym
+end
+
+
+
+get '/Developer' do
+  erb :developer
+end
+
+
+get '/Developer/SalmonLED' do
+  erb :salmonLED
+end
+
+
+get '/Developer/RainDrums' do
+   erb :rain_drums
+end
+
+
+get '/Developer/Highways' do
+    erb :highways
+end
+
+
+get '/Developer/3dModeling' do
+  erb :three_d_modeling
+end
+
+
+get '/Developer/WebProjects' do
+  erb :web_projects
+end
+
+
+
+
 
 get '/mystyle.css' do
   scss :mystyle
