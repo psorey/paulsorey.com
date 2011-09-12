@@ -3,21 +3,41 @@ $lt_green: #77cc77;
 $dk_green: #449944;
 $bg_color: #222222;
 
+$border_intensity: #151515;
+$border_highlight_intensity: #333333;
+
+$transition_time: 250ms;
+
+$border_shadow: $bg_color - ($border_intensity / 1.5);
+$border_light: $bg_color + $border_intensity;
 
 
+/*
 @font-face {
   font-family: "Junction";
   src: local("!"),
     url("Junction 02.otf") format("opentype");
 }
+*/
+
+
+/* @font-face {
+  font-family: "Droid Serif";
+  src: local("!"),
+    url("DroidSerif.ttf) format("truetype";
+}
+*/
+
 
 body {
-    font-family:"Junction","Times New Roman", Times, serif;
+  /*  font-family:"Junction","Times New Roman", Times, serif; */
+  /*  font-family:"Droid Serif","Times New Roman", Times, serif; */
+    font-family: 'Droid Serif',"Times New Roman", Times, serif; 
     text-shadow: 2px 2px 2px #000;
     color: $lt_green;
     background-color: $bg_color;
     width:99%;
-    padding-top: 25px;
+    padding-top: 20px;
     margin-top: 15px;
 }
 
@@ -50,17 +70,43 @@ img {
     border: solid;
     border-width: 8px;
     border-color: #000000;
+    
+    border-left-color: $border_shadow;
+    border-top-color: $border_shadow;
+    border-right-color: $border_light;
+    border-bottom-color: $border_light;
 }
 
 a img {
     border-color: #000000;
-    border-width: 5px;
+    border-width: 7px;
     margin-bottom: 8px;
+    
+    border-left-color: $border_shadow;
+    border-top-color: $border_shadow;
+    border-right-color: $border_light;
+    border-bottom-color: $border_light;
+    
+ 		-webkit-transition: all $transition_time ease-in-out;
+	-moz-transition: all $transition_time ease-in-out;
+	-o-transition: all $transition_time ease-in-out;
+	-ms-transition: all $transition_time ease-in-out;
+	transition: all $transition_time ease-in-out;
+           
+    
 }
 
 a {
     color: $dk_green;
     text-decoration: none;
+    
+		-webkit-transition: all $transition_time ease-in-out;
+	-moz-transition: all $transition_time ease-in-out;
+	-o-transition: all $transition_time ease-in-out;
+	-ms-transition: all $transition_time ease-in-out;
+	transition: all $transition_time ease-in-out;
+    
+    
 }
 
 a.info{
@@ -68,7 +114,31 @@ a.info{
 }
 
 a:link      { color: $dk_green; }
-a:hover img { border-color: $lt_green; border-width: 5px;}
+
+a:hover img {
+    border-color: $lt_green;
+    border-width: 7px;
+    
+    border-left-color: $border_shadow /*- $border_highlight_intensity*/;
+    border-top-color: $border_shadow /*- $border_highlight_intensity*/;
+    border-right-color: $border_light + $border_highlight_intensity;
+    border-bottom-color: $border_light + $border_highlight_intensity;
+    
+    box-shadow: 0 0 100px 100px #333333;
+    
+ 		-webkit-transition: all $transition_time ease-in-out;
+	-moz-transition: all $transition_time ease-in-out;
+	-o-transition: all $transition_time ease-in-out;
+	-ms-transition: all $transition_time ease-in-out;
+	transition: all $transition_time ease-in-out;
+       
+    
+    
+    
+} 
+
+    
+
 a:hover     { color: $lt_green; }
 
 #map_canvas {
