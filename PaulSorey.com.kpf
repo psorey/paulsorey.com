@@ -4,4 +4,7 @@
 <preference-set idref="85f53fc0-e48c-416c-9750-78afe2b4a3af">
   <boolean id="import_live">1</boolean>
 </preference-set>
+<preference-set idref="85f53fc0-e48c-416c-9750-78afe2b4a3af/views/coffee.erb">
+  <string id="spellcheckLangID">en-US</string>
+</preference-set>
 </project>
