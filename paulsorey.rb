@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'erb'
 require 'sinatra/outputbuffer'
+require 'sinatra/content_for'
 require 'haml'
 require 'sass'
 
@@ -14,6 +15,14 @@ get '/mystyle.css' do
   scss :mystyle
 end
 
+get '/WebDeveloper' do
+  erb :web_developer, :layout => :layout_web_dev
+end
+
+get '/RoadDesignSoftware' do
+  erb :road_design_software, :layout => :layout_web_dev
+end
+  
 
 get '/SalmonWaves' do
   erb :salmon

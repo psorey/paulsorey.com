@@ -1,5 +1,6 @@
 
-$lt_green: #77cc77;
+$lt_green: #99dd88;
+$lt_lt_green: #aadd99;
 $dk_green: #449944;
 $bg_color: #222222;
 
@@ -39,7 +40,9 @@ body {
     width:99%;
     padding-top: 20px;
     margin-top: 15px;
+
 }
+
 
 
 div.menu
@@ -77,28 +80,39 @@ img {
     border-bottom-color: $border_light;
 }
 
+a {
+-moz-user-focus: none;
+outline: none;
+}
+a:active {
+ outline: none;
+ -moz-outline: none;
+}
+
 a img {
-    border-color: #000000;
-    border-width: 7px;
-    margin-bottom: 8px;
-    
-    border-left-color: $border_shadow;
-    border-top-color: $border_shadow;
-    border-right-color: $border_light;
-    border-bottom-color: $border_light;
-    
- 		-webkit-transition: all $transition_time ease-in-out;
-	-moz-transition: all $transition_time ease-in-out;
-	-o-transition: all $transition_time ease-in-out;
-	-ms-transition: all $transition_time ease-in-out;
-	transition: all $transition_time ease-in-out;
+  margin-left:auto;
+  margin-right:auto;
+  border-color: #000000;
+  border-width: 7px;
+  margin-bottom: 8px;
+  
+  border-left-color: $border_shadow;
+  border-top-color: $border_shadow;
+  border-right-color: $border_light;
+  border-bottom-color: $border_light;
+  
+  -webkit-transition: all $transition_time ease-in-out;
+  -moz-transition: all $transition_time ease-in-out;
+  -o-transition: all $transition_time ease-in-out;
+  -ms-transition: all $transition_time ease-in-out;
+  transition: all $transition_time ease-in-out;
            
     
 }
 
 a {
-    color: $dk_green;
-    text-decoration: none;
+  color: $dk_green;
+  text-decoration: none;
     
 		-webkit-transition: all $transition_time ease-in-out;
 	-moz-transition: all $transition_time ease-in-out;
@@ -110,34 +124,28 @@ a {
 }
 
 a.info{
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 a:link      { color: $dk_green; }
 
 a:hover img {
-    border-color: $lt_green;
-    border-width: 7px;
-    
-    border-left-color: $border_shadow /*- $border_highlight_intensity*/;
-    border-top-color: $border_shadow /*- $border_highlight_intensity*/;
-    border-right-color: $border_light + $border_highlight_intensity;
-    border-bottom-color: $border_light + $border_highlight_intensity;
-    
-    box-shadow: 0 0 100px 100px #333333;
-    
- 		-webkit-transition: all $transition_time ease-in-out;
-	-moz-transition: all $transition_time ease-in-out;
-	-o-transition: all $transition_time ease-in-out;
-	-ms-transition: all $transition_time ease-in-out;
-	transition: all $transition_time ease-in-out;
-       
-    
-    
-    
+  /*border-color: $lt_green;*/
+  border-width: 7px;
+  
+  border-left-color: $border_shadow /*- $border_highlight_intensity*/;
+  border-top-color: $border_shadow /*- $border_highlight_intensity*/;
+  border-right-color: $border_light + $border_highlight_intensity;
+  border-bottom-color: $border_light + $border_highlight_intensity;
+  
+  box-shadow: 0 0 100px 100px #333333;
+  
+  -webkit-transition: all $transition_time ease-in-out;
+  -moz-transition: all $transition_time ease-in-out;
+  -o-transition: all $transition_time ease-in-out;
+  -ms-transition: all $transition_time ease-in-out;
+  transition: all $transition_time ease-in-out;
 } 
-
-    
 
 a:hover     { color: $lt_green; }
 
@@ -157,6 +165,14 @@ div.info {
     font-size: 14px;
 }
 
+div .block_text {
+  width: 600px;
+  margin-left:auto;
+  margin-right:auto;
+  color: $lt_lt_green;
+  font-size: 16px;
+}
+
 h1 {
     color: $dk_green;
     font-size: 50px;
@@ -170,7 +186,7 @@ h1 {
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 30px;
     font-weight: lighter;
     text-align: center;
     margin-top: 1px;
@@ -185,10 +201,13 @@ h3 {
     text-align: center;
     margin-left:auto;
     margin-right:auto;
+   
 }
 
+
+
 h4 {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: lighter;
     text-align: center;
     margin-left:auto;
@@ -217,6 +236,16 @@ div.description_text {
     width: 60%;
 }
 
+div.caption {
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 14px;
+    font-weight: lighter;
+    text-align: center;
+    width: 60%;
+    font-style: italic;
+}
+
 div.photo_index {
     margin-left:auto;
     margin-right:auto;
@@ -225,6 +254,6 @@ div.photo_index {
     text-align: center;
     text-decoration: none;
     font-style: italic;
-    width: 400px;    
+    width: 600px;    
 }
 

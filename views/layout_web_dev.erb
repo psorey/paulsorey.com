@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<HTML>
+<head>
+   
+   <meta HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+   <title>Paul Sorey Public Art</title>
+
+   <link rel="stylesheet" type="text/css" href="mystyle.css" />
+   <%= yield_content :head %>
+	 
+</head>
+
+<body onload="initialize()">
+
+
+<div class='menu'>
+
+   &gt;<a HREF="/">&nbsp;&nbsp;Home</a>
+   <br />
+   &gt;<a HREF="mailto:paul@paulsorey.com">&nbsp;&nbsp;Contact</a>
+   <br />
+   <br />
+   &gt;<a HREF="WebDeveloper">&nbsp;&nbspSoftware and <br />&gt;&nbsp;&nbsp;Web Development</a>
+   <br />
+   <br />
+   <%= yield_content_for :dev_info %>
+   
+</div>
+
+<div class='content'>
+ 
+			<%= yield %>
+			
+</div>
+
+
+	 
+	 <!-- Start of StatCounter Code -->
+	 
+	 <script type="text/javascript">
+	 var sc_project=6628261; 
+	 var sc_invisible=1; 
+	 var sc_security="a9fce7d5"; 
+	 </script>
+	 
+	 <script type="text/javascript"
+	 src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+	 class="statcounter"><a title="weebly statistics"
+	 href="http://statcounter.com/weebly/" target="_blank"><img
+	 class="statcounter"
+	 src="http://c.statcounter.com/6628261/0/a9fce7d5/1/"
+	 alt="weebly statistics" ></a></div></noscript>
+	 <!-- End of StatCounter Code -->
+
+</BODY>
+</HTML>
