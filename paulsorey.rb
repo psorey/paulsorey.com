@@ -1,10 +1,12 @@
 require 'sinatra'
 require 'erb'
 require 'sinatra/outputbuffer'
-require 'sinatra/content_for'
+#require 'sinatra/content_for'
 require 'haml'
 require 'sass'
 
+#
+#Sinatra::Templates.initialize()
 
 get '/' do
   erb :index
