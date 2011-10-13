@@ -7,10 +7,11 @@ $bg_color: #222222;
 $border_intensity: #151515;
 $border_highlight_intensity: #333333;
 
-$transition_time: 250ms;
+$transition_time: 260ms;
 
 $border_shadow: $bg_color - ($border_intensity / 1.5);
 $border_light: $bg_color + $border_intensity;
+
 
 
 /*
@@ -51,9 +52,9 @@ div.menu
   top:50px;
   left:30px;    
 
-	/*float:left;
-	width:160px;*/
-	margin:0px;
+  /*float:left;
+  width:160px;*/
+  margin:0px;
   padding: 0px;
   font-size: 16px;
 }
@@ -63,21 +64,21 @@ div.content
 {
     margin-top: 0px;
     padding-top: 0px;
-	/*margin-left:128px;*/
+  /*margin-left:128px;*/
 }
 
 img {
-    margin-left:auto;
-    margin-right:auto;
-    display: block;
-    border: solid;
-    border-width: 8px;
-    border-color: #000000;
-    
-    border-left-color: $border_shadow;
-    border-top-color: $border_shadow;
-    border-right-color: $border_light;
-    border-bottom-color: $border_light;
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+  border: solid;
+  border-width: 8px;
+  border-color: #000000;
+  
+  border-left-color: $border_shadow;
+  border-top-color: $border_shadow;
+  border-right-color: $border_light;
+  border-bottom-color: $border_light;
 }
 
 a {
@@ -106,21 +107,17 @@ a img {
   -o-transition: all $transition_time ease-in-out;
   -ms-transition: all $transition_time ease-in-out;
   transition: all $transition_time ease-in-out;
-           
-    
 }
 
 a {
   color: $dk_green;
   text-decoration: none;
     
-		-webkit-transition: all $transition_time ease-in-out;
-	-moz-transition: all $transition_time ease-in-out;
-	-o-transition: all $transition_time ease-in-out;
-	-ms-transition: all $transition_time ease-in-out;
-	transition: all $transition_time ease-in-out;
-    
-    
+  -webkit-transition: all $transition_time ease-in-out;
+  -moz-transition: all $transition_time ease-in-out;
+  -o-transition: all $transition_time ease-in-out;
+  -ms-transition: all $transition_time ease-in-out;
+  transition: all $transition_time ease-in-out;
 }
 
 a.info{
@@ -201,10 +198,7 @@ h3 {
     text-align: center;
     margin-left:auto;
     margin-right:auto;
-   
 }
-
-
 
 h4 {
     font-size: 14px;
@@ -214,8 +208,6 @@ h4 {
     margin-right:auto;
     margin-top: 4px;
 }
-
-
 
 div.bold_text {
     margin-left:auto;
