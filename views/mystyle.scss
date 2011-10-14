@@ -74,7 +74,6 @@ img {
   border: solid;
   border-width: 8px;
   border-color: #000000;
-  
   border-left-color: $border_shadow;
   border-top-color: $border_shadow;
   border-right-color: $border_light;
@@ -82,12 +81,11 @@ img {
 }
 
 a {
--moz-user-focus: none;
-outline: none;
+  -moz-user-focus: none;
+  outline: none;
 }
 a:active {
  outline: none;
- -moz-outline: none;
 }
 
 a img {
