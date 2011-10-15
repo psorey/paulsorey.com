@@ -25,6 +25,21 @@ get '/RoadDesignSoftware' do
   erb :road_design_software, :layout => :layout_web_dev
 end
   
+get '/RainDrums' do
+  erb :rain_drums, :layout => :layout_web_dev
+end
+
+get '/Greenwood' do
+   erb :greenwood, :layout => :layout_web_dev
+end
+
+get '/SalmonLEDs' do
+   erb :salmon_led, :layout => :layout_web_dev
+end
+
+get '/RoadWorksLEDs' do
+   erb :road_works_led, :layout => :layout_web_dev
+end
 
 get '/SalmonWaves' do
   erb :salmon

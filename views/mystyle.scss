@@ -13,16 +13,6 @@ $border_shadow: $bg_color - ($border_intensity / 1.5);
 $border_light: $bg_color + $border_intensity;
 
 
-
-/*
-@font-face {
-  font-family: "Junction";
-  src: local("!"),
-    url("Junction 02.otf") format("opentype");
-}
-*/
-
-
 /* @font-face {
   font-family: "Droid Serif";
   src: local("!"),
@@ -96,9 +86,9 @@ a img {
   margin-bottom: 8px;
   
   border-left-color: $border_shadow;
-  border-top-color: $border_shadow;
+  border-top-color: $border_shadow - #050505;
   border-right-color: $border_light;
-  border-bottom-color: $border_light;
+  border-bottom-color: $border_light + #111;
   
   -webkit-transition: all $transition_time ease-in-out;
   -moz-transition: all $transition_time ease-in-out;
@@ -110,7 +100,6 @@ a img {
 a {
   color: $dk_green;
   text-decoration: none;
-    
   -webkit-transition: all $transition_time ease-in-out;
   -moz-transition: all $transition_time ease-in-out;
   -o-transition: all $transition_time ease-in-out;
@@ -129,9 +118,9 @@ a:hover img {
   border-width: 7px;
   
   border-left-color: $border_shadow /*- $border_highlight_intensity*/;
-  border-top-color: $border_shadow /*- $border_highlight_intensity*/;
+  border-top-color: $border_shadow - #111/*- $border_highlight_intensity*/;
   border-right-color: $border_light + $border_highlight_intensity;
-  border-bottom-color: $border_light + $border_highlight_intensity;
+  border-bottom-color: $border_light + $border_highlight_intensity + #222;
   
   box-shadow: 0 0 100px 100px #333333;
   
