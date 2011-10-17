@@ -17,6 +17,10 @@ get '/WebDeveloper' do
   erb :web_developer, :layout => :layout_web_dev
 end
 
+get '/SoftwareDeveloper' do
+  erb :software_developer, :layout => :layout_web_dev
+end
+
 get '/RoadDesignSoftware' do
   erb :road_design_software, :layout => :layout_web_dev
 end

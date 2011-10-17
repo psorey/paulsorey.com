@@ -1,0 +1,24 @@
+/* type-metal style */
+/*
+@font-face {
+  font-family: "Junction";
+  src: local("!"),
+    url("Junction 02.otf") format("opentype");
+}
+*/
+/* @font-face {
+  font-family: "Droid Serif";
+  src: local("!"),
+    url("DroidSerif.ttf) format("truetype";
+}
+*/
+body {
+  /*  font-family:"Junction","Times New Roman", Times, serif; */
+  /*  font-family:"Droid Serif","Times New Roman", Times, serif; */
+  font-family: 'Droid Serif',"Times New Roman", Times, serif;
+  text-shadow: 2px 2px 2px black, -2px -2px 2px #ffffcc;
+  color: #bbbbbb;
+  background-color: #222222;
+  width: 99%;
+  padding-top: 20px;
+  margin-top: 15px; }

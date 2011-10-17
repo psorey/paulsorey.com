@@ -56,12 +56,12 @@ img {
   margin-right:auto;
   display: block;
   border: solid;
-  border-width: 8px;
+  border-width: 7px;
   border-color: #000000;
   border-left-color: $border_shadow;
-  border-top-color: $border_shadow;
+  border-top-color: $border_shadow - #050505;
   border-right-color: $border_light;
-  border-bottom-color: $border_light;
+  border-bottom-color: $border_light + #111;
 }
 
 a {
@@ -227,6 +227,15 @@ div.photo_index {
     text-align: center;
     text-decoration: none;
     font-style: italic;
-    width: 600px;    
+    width: 600px;
+    a { padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    p {
+      height: 45px;
+      vertical-align: bottom;
+      padding-bottom: 0px;
+      margin-bottom: 0px;
+    }
 }
 
