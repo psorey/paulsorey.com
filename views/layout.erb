@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<HTML>
+<html>
 <head>
   <meta HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
   <%= yield_content :title %>
@@ -8,22 +8,19 @@
   <%= yield_content :head %>
 </head>
 
-<body>
+  <%= yield_content :body_tag %>
+<!-- <body> -->
+
 <div class='menu'>
-
-   &gt;<a HREF="/">&nbsp;&nbsp;Home</a>
-   <br />
-   &gt;<a HREF="ArtworkLocations">&nbsp;&nbsp;Artwork Locations</a>
-   <br />
-   &gt;<a HREF="./SoreyResume.pdf">&nbsp;&nbsp;Resum&eacute;</a>
-   <br />
-   &gt;<A HREF="TreeBenchVideo">&nbsp;&nbsp;<em>Tree Bench</em> Video</A>
-   <br />
-   &gt;<a HREF="mailto:paul@paulsorey.com">&nbsp;&nbsp;Contact</a>
-   <br />
-   <br />
-   &gt;<a HREF="WebDeveloper">&nbsp;&nbspSoftware and <br />&gt;&nbsp;&nbsp;Web Development</a>
-
+  <ul id="navbar">
+    <li id="home">        <a href="/">&gt;&nbsp;&nbsp;Home</a></li>
+    <li id="locations">   <a href="ArtworkLocations">&gt;&nbsp;&nbsp;Artwork Locations</a>
+    <li id="art_resume">  <a href="./SoreyResume.pdf">&gt;&nbsp;&nbsp;Resum&eacute;</a>
+    <li id="tb_video">    <a href="TreeBenchVideo">&gt;&nbsp;&nbsp;<em>Tree Bench</em> Video</a>
+    <li id="contact">     <a href="mailto:paul@paulsorey.com">&gt;&nbsp;&nbsp;Contact</a></li>
+    <br />
+    <li id="web_dev">     <a href="WebDeveloper">&gt;&nbsp;&nbsp;Web Dev</a></li>
+  </ul>
 </div>
 
 <div class='content'>
@@ -49,5 +46,5 @@
    alt="weebly statistics" ></a></div></noscript>
    <!-- End of StatCounter Code -->
 
-</BODY>
-</HTML>
+</body>
+</html>

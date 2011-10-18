@@ -239,3 +239,19 @@ div.photo_index {
     }
 }
 
+#navbar li {
+  list-style: none;
+  padding: 7px;
+  position:relative;
+  left:-48px;
+}
+
+#navbar a:hover,
+  .home #navbar #home a,
+  .web_dev #navbar #web_dev a,
+  .software_dev #navbar #software_dev a,
+  .contact #navbar #contact a,
+  .locations #navbar #locations a,
+  .tb_video #navbar #tb_video a{ color: #ffa;
+}
+

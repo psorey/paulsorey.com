@@ -1,11 +1,17 @@
 <% content_for :title do %>
-  <title>Paul Sorey is a Web Developer!</title>
+  <title>Paul Sorey - Web Software Development</title>
   <meta name='description' content='Paul Sorey combines his artistic vision and his technical
     know-how to make beautiful websites that work.' >
 <% end %>
-  
-  <h1 >Art + Logic</h1>
-  <h3 style="font-style: italic;">Web Development</h3>
+
+
+<% content_for :body_tag do %>
+  <body class="web_dev">
+<% end %>
+
+
+  <h1 style="font-size: 40px; " >Art + Logic</h1>
+  <h3 style="font-style: italic; font-size: 24px; margin: 15px; ">Web Development</h3>
   
   <h4> Paul Sorey <br /> Seattle, WA </h4>
   <br />
@@ -55,7 +61,7 @@
   
     <h4 style='width:380px; bottom-margin: 50px'>
       Simple Sinatra website to show off my endeavors. Very satisfying to see how it all ties together, and
-      sometimes how it doesn't...
+      sometimes how it doesn't... See the code at <a href="http://github.com/psorey/paulsorey.com">Github. </a>
     </h4>
 
 

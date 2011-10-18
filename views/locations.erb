@@ -1,7 +1,9 @@
 <% content_for :title do %>
   <title>Paul Sorey Public Art</title>
   <meta name='description' content='Paul Sorey creates public artwork that engages visitors and enlivens public spaces.' >
-<% end %>  
+<% end %>
+
+
 <% content_for :head do %>  
   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
   <script type="text/javascript">
@@ -181,23 +183,14 @@
       google.maps.event.addListener(coffee, 'click', function() {
         coffeeInfo.open(map,coffee);
       });
-  
     }
-    
   </script>
   <% end %>
   
-  </head>
-  <body onload="initialize()">
-    
+<% content_for :body_tag do %>
+  <body class="locations" onload="initialize()">
+<% end %>
     <h2>Artwork Locations</h2>
      
     <div id="map_canvas"></div>
     <h4>(mouse-over markers for artwork title.)</h4>
-  
-
-  
-  </body>
-</html>
-
-
