@@ -33,6 +33,10 @@ get '/Greenwood' do
    erb :greenwood, :layout => :layout_web_dev
 end
 
+get '/ZebraTime' do
+   erb :zebra_time, :layout => :layout_web_dev  
+end
+
 get '/SalmonLEDs' do
    erb :salmon_led, :layout => :layout_web_dev
 end
