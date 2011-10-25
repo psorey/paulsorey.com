@@ -8,7 +8,7 @@ body {
   /*  font-family:"Droid Serif","Times New Roman", Times, serif; */
   font-family: 'Droid Serif',"Times New Roman", Times, serif;
   text-shadow: 2px 2px 2px #000;
-  color: #99dd88;
+  color: #99bb88;
   background-color: #222222;
   width: 99%;
   padding-top: 20px;
@@ -62,7 +62,7 @@ a img {
   transition: all 260ms ease-in-out; }
 
 a {
-  color: #449944;
+  color: #557744;
   text-decoration: none;
   -webkit-transition: all 260ms ease-in-out;
   -moz-transition: all 260ms ease-in-out;
@@ -74,7 +74,7 @@ a.info {
   text-decoration: underline; }
 
 a:link {
-  color: #449944; }
+  color: #557744; }
 
 a:hover img {
   /*border-color: $lt_green;*/
@@ -91,7 +91,7 @@ a:hover img {
   transition: all 260ms ease-in-out; }
 
 a:hover {
-  color: #99dd88; }
+  color: #99bb88; }
 
 #map_canvas {
   margin-left: auto;
@@ -115,8 +115,8 @@ div .block_text {
   font-size: 16px; }
 
 h1 {
-  color: #449944;
-  font-size: 50px;
+  color: #dddddd;
+  font-size: 45px;
   text-align: center;
   font-weight: bold;
   font-style: italic;
@@ -206,4 +206,4 @@ div.photo_index {
 .contact #navbar #contact a,
 .locations #navbar #locations a,
 .tb_video #navbar #tb_video a {
-  color: #ffa; }
+  color: white; }

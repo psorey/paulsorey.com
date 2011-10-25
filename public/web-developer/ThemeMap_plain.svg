@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="646.52368"
+   height="609.57758"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="ThemeMap_plain.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3650"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3754"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3818"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3891"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4002"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4066"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4138"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4300"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4412"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4434"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4459"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4525"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4597"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4619"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4647"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4669"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4669-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4708"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4730"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4752"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3306"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3408"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3472"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3566"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3596"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3656"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3656-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3656-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3719"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3744"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3769"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3791"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3822"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3886"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3958"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4759"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4781"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4806"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4878"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4903"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4928"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4950"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4972"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4994"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5030"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5055"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5055-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5055-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5117"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3122"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3922"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3947"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3972"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4000"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4028"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4056"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4084"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4154"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4182"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4210"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4238"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4275"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4312"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5721"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5750"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5783"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5816"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5849"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5907"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5929"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5958"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5989"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6029"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#eeeeee"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.95686275"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1793128"
+     inkscape:cx="434.54839"
+     inkscape:cy="201.88146"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1331"
+     inkscape:window-height="720"
+     inkscape:window-x="29"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showborder="false"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-338.12524,-346.74957)">
+    <rect
+       style="fill:#a4c6a0;stroke:#fcfcfc;stroke-width:1.10651338000000021;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect3994"
+       width="645.41718"
+       height="608.47107"
+       x="338.6785"
+       y="347.30283"
+       rx="1.9250481" />
+    <g
+       id="g3620"
+       transform="matrix(0.3954101,0,0,0.3954101,742.23481,382.99453)">
+      <g
+         id="g3712">
+        <rect
+           style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2816"
+           width="212.1321"
+           height="242.43665"
+           x="80.812202"
+           y="62.412693"
+           ry="0"
+           rx="2.4227273" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 86.873119,121.00154 208.091421,0"
+           id="path3590"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:37.73581314px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="91.807411"
+           y="102.10174"
+           id="text3592"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3594"
+             x="91.807411"
+             y="102.10174"><tspan
+               style="font-size:18.97676659px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+               id="tspan3616">Mapscript::</tspan><tspan
+               style="font-size:18.97676659px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+               id="tspan3614">MapObj</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="91.807411"
+             y="127.67233"
+             id="tspan3596" /><tspan
+             sodipodi:role="line"
+             x="91.807411"
+             y="153.24294"
+             id="tspan3598" /></text>
+        <rect
+           style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3604"
+           width="196.42857"
+           height="175"
+           x="91.428574"
+           y="125.21932"
+           ry="2.4227273" />
+        <flowRoot
+           xml:space="preserve"
+           style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           id="flowRoot3606"><flowRegion
+             id="flowRegion3608"><use
+               x="0"
+               y="0"
+               xlink:href="#rect3604"
+               id="use3610"
+               width="744.09448"
+               height="1052.3622" /></flowRegion><flowPara
+             id="flowPara3612"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">Mapscript object containing all the information of a mapfile. Do we need a physical wrapper for all mapscript object types so they can be saved in the DB?  </flowPara><flowPara
+             id="flowPara3636"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" /><flowPara
+             id="flowPara3639"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">Or do we <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:DejaVu Sans Bold"
+   id="flowSpan3618">use Mapscript only for its methods, passing it our different objects for processing</flowSpan>?</flowPara></flowRoot>      </g>
+    </g>
+    <rect
+       style="fill:none;stroke:#ae0000;stroke-width:0.79082018;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2816-1"
+       width="120.18752"
+       height="140.15868"
+       x="793.91089"
+       y="610.91211"
+       ry="0.95797086" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.58494824px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 794.1458,633.27996 118.91885,0"
+       id="path3590-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.92112064px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="805.44806"
+       y="627.005"
+       id="text3592-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3594-7"
+         x="805.44806"
+         y="627.005">Mapserver</tspan><tspan
+         sodipodi:role="line"
+         x="805.44806"
+         y="645.65643"
+         id="tspan3596-3" /><tspan
+         sodipodi:role="line"
+         x="805.44806"
+         y="664.3078"
+         id="tspan3598-1" /></text>
+    <rect
+       style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3604-3"
+       width="414.62161"
+       height="399.25381"
+       x="-104.73196"
+       y="-427.20108"
+       ry="0" />
+    <g
+       id="g3712-0-5"
+       transform="matrix(0.3954101,0,0,0.3954101,529.63561,800.07281)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-0"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-2"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-7"
+         y="100.25907"
+         x="92.247696"
+         style="font-size:31.05654335px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="100.25907"
+           x="92.247696"
+           id="tspan3594-3-2"
+           sodipodi:role="line">MapLayer</tspan><tspan
+           id="tspan3596-7-8"
+           y="139.07976"
+           x="92.247696"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-1"
+           y="177.90044"
+           x="92.247696"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-7"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-7"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-9"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-79"
+             xlink:href="#rect3604-5-7"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-9">Currently only contains the mapfile layer data for one layer.</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara4844"> </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara4846">When a ThemeMap is created the layer data from here is added to the MapObj owned by the ThemeMap</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara4848"> </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara4850" /></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 567.08266,919.81445 0,11.98275 87.87342,0 0,-99.05729 -9.58622,0 0,0"
+       id="path4402"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 576.66881,930.99835 0,11.98272 87.87342,0 0,-99.05727 -9.5862,0 0,0"
+       id="path4402-6"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="g3712-0-4-8"
+       transform="matrix(0.3954101,0,0,0.3954101,626.22263,605.93128)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-6-0"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-4-4"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-2-9"
+         y="98.393242"
+         x="92.783714"
+         style="font-size:27.78820229px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="98.393242"
+           x="92.783714"
+           id="tspan3594-3-5-0"
+           sodipodi:role="line">WMS Layer</tspan><tspan
+           id="tspan3596-7-1-5"
+           y="133.12849"
+           x="92.783714"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-6-5"
+           y="167.86375"
+           x="92.783714"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-1-0"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-3-1"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-7-6"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-7-0"
+             xlink:href="#rect3604-5-1-0"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3626">Layers from somewhere else, like  Google Maps, Census data, etc.</flowPara></flowRoot>    </g>
+    <g
+       id="g3712-0-4-4"
+       transform="matrix(0.3954101,0,0,0.3954101,821.35577,798.8411)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-6-6"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-4-3"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-2-8"
+         y="98.393242"
+         x="92.783714"
+         style="font-size:27.78820229px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="98.393242"
+           x="92.783714"
+           id="tspan3594-3-5-04"
+           sodipodi:role="line">ThemeMap</tspan><tspan
+           id="tspan3596-7-1-9"
+           y="133.12849"
+           x="92.783714"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-6-7"
+           y="167.86375"
+           x="92.783714"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-1-9"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-3-7"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-7-5"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-7-1"
+             xlink:href="#rect3604-5-1-9"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-1-80">has_many :theme_map_layers</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara4835">has_many :map_layers :through    =&gt; :theme_map_layers</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara4837" /></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56966579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 647.41053,858.18819 56.7304,11.51831"
+       id="path4633"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;stroke:#ae0000;stroke-width:1.19751894;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4692"
+       width="646.35571"
+       height="609.86029"
+       x="338.2012"
+       y="346.53183"
+       rx="1.8793272" />
+    <text
+       xml:space="preserve"
+       style="font-size:23.77113914px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="360.04669"
+       y="396.14566"
+       id="text4696"><tspan
+         sodipodi:role="line"
+         id="tspan4698"
+         x="360.04669"
+         y="396.14566">Theme Maps</tspan></text>
+    <g
+       id="g3712-0-5-8"
+       transform="matrix(0.3954101,0,0,0.3954101,671.96934,800.45503)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-0-4"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-2-0"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-7-8"
+         y="98.183182"
+         x="92.225655"
+         style="font-size:23.53190994px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="98.183182"
+           x="92.225655"
+           id="tspan3594-3-2-4"
+           sodipodi:role="line">ThemeMapLayer</tspan><tspan
+           id="tspan3596-7-8-4"
+           y="127.59807"
+           x="92.225655"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-1-8"
+           y="157.01295"
+           x="92.225655"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-7-2"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-7-4"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-9-2"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-79-7"
+             xlink:href="#rect3604-5-7-2"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-9-9">belongs_to :theme_maps</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara4828">belongs_to :map_layers</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara5008" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara5012">How about several map_layers belonging to one theme_map_layer?</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara5014">Or do we just include them at the theme_map level?</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara5016" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara5018">i.e., walk_surveys has a point layer for label and a line layer for geometry. We currently handle this at the OpenLayers level, splitting the one table entry into two vector layers.</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 709.41641,920.1967 0,11.98272 87.8734,0 0,-99.05728 -9.58619,0 0,0"
+       id="path4402-9"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 719.00259,931.38057 0,11.98274 87.87341,0 0,-99.05728 -9.58622,0 0,0"
+       id="path4402-6-8"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="g3712-0-4-1-2"
+       transform="matrix(0.3954101,0,0,0.3954101,462.72753,606.77621)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-6-3-8"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-4-1-4"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-2-5-7"
+         y="99.536163"
+         x="118.52502"
+         style="font-size:30.85395432px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="99.536163"
+           x="118.52502"
+           id="tspan3594-3-5-8-24"
+           sodipodi:role="line">GeoShape</tspan><tspan
+           id="tspan3596-7-1-1-0"
+           y="138.10361"
+           x="118.52502"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-6-3-6"
+           y="176.67105"
+           x="118.52502"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-1-3-2"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-3-9-9"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-7-7-90"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-7-5-81"
+             xlink:href="#rect3604-5-1-3-2"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3366">Abstract parent class for all geo_shape object types: geo_point, geo_polyline, geo_polygon: single-table-inheritance types from the GeoShape class/table.</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3368" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3370">'Owned' by map_layers and users, but</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3372">do we want to abstract the owner</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3384">so that any 'owner' can 'own' them?  We could count 'references' to the object, not as run-time instances as in a scene graph, but as persistent objects that get deleted from the db when nobody owns them any more. </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3636-6-2-4-1" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-1-9-1" /></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 501.76533,726.86327 0,11.98276 87.87342,0 0,-99.05728 -9.58621,0 0,0"
+       id="path4402-9-9"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 511.35149,738.04717 0,11.98276 87.87341,0 0,-99.0573 -9.58619,0 0,0"
+       id="path4402-6-8-1"
+       sodipodi:nodetypes="cccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3632"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion3634"><rect
+           id="rect3636"
+           width="122.85714"
+           height="98.571426"
+           x="581.42859"
+           y="-639.06641" /></flowRegion><flowPara
+         id="flowPara3638" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-1"
+       y="564.86078"
+       x="404.61136"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="564.86078"
+         x="404.61136"
+         id="tspan3594-3-5-8-24-2"
+         sodipodi:role="line">GeoPoint</tspan><tspan
+         id="tspan3596-7-1-1-0-2"
+         y="580.11072"
+         x="404.61136"
+         sodipodi:role="line" /><tspan
+         id="tspan3598-6-6-3-6-0"
+         y="595.36072"
+         x="404.61136"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-7"
+       y="546.08704"
+       x="430.61124"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="546.08704"
+         x="430.61124"
+         id="tspan3594-3-5-8-24-5"
+         sodipodi:role="line">GeoPolyline</tspan><tspan
+         id="tspan3596-7-1-1-0-1"
+         y="561.33698"
+         x="430.61124"
+         sodipodi:role="line" /><tspan
+         id="tspan3598-6-6-3-6-7"
+         y="576.58698"
+         x="430.61124"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-17"
+       y="526.51416"
+       x="459.01324"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="526.51416"
+         x="459.01324"
+         id="tspan3594-3-5-8-24-1"
+         sodipodi:role="line">GeoPolygon</tspan><tspan
+         id="tspan3596-7-1-1-0-11"
+         y="541.7641"
+         x="459.01324"
+         sodipodi:role="line" /><tspan
+         id="tspan3598-6-6-3-6-70"
+         y="557.0141"
+         x="459.01324"
+         sodipodi:role="line" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 556.68484,518.70845 446.76023,597.85463"
+       id="path3709"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 492.3438,484.79836 373.9757,568.70483"
+       id="path3709-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-3"
+       y="500.74817"
+       x="348.75565"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="500.74817"
+         x="348.75565"
+         id="tspan3594-3-5-8-24-4"
+         sodipodi:role="line">GeoShape types:</tspan><tspan
+         id="tspan3596-7-1-1-0-4"
+         y="515.99811"
+         x="348.75565"
+         sodipodi:role="line" /><tspan
+         id="tspan3598-6-6-3-6-3"
+         y="531.24811"
+         x="348.75565"
+         sodipodi:role="line" /></text>
+    <g
+       id="g3712-0-2"
+       transform="matrix(0.3954101,0,0,0.3954101,503.36153,340.67264)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-4"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-7"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-6"
+         y="100.25907"
+         x="92.247696"
+         style="font-size:31.05654335px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="100.25907"
+           x="92.247696"
+           id="tspan3594-3-5"
+           sodipodi:role="line">Shapefile</tspan><tspan
+           id="tspan3596-7-7"
+           y="139.07976"
+           x="92.247696"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-13"
+           y="177.90044"
+           x="92.247696"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-3"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-3"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-8"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-5"
+             xlink:href="#rect3604-5-3"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3612-0-1">Pre-compiled layers from the City or</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3619-0">where ever.  </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3636-6-8" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-7" /></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 543.65404,461.31201 0,11.98274 87.87339,0 0,-99.05732 -9.5862,0 0,0"
+       id="path4402-9-8"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39541009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 553.24018,472.4959 0,11.98272 87.87342,0 0,-99.05729 -9.58621,0 0,0"
+       id="path4402-6-8-3"
+       sodipodi:nodetypes="cccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3942"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion3944"><rect
+           id="rect3946"
+           width="391.93918"
+           height="357.59399"
+           x="1145.5129"
+           y="-626.51135" /></flowRegion><flowPara
+         id="flowPara3948" /></flowRoot>    <g
+       id="g3712-0-3"
+       transform="matrix(0.3954101,0,0,0.3954101,329.31943,607.34925)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-9"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-3"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-3"
+         y="98.341331"
+         x="92.638031"
+         style="font-size:24.10516548px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="98.341331"
+           x="92.638031"
+           id="tspan3594-3-4"
+           sodipodi:role="line">GeoShapeLayer</tspan><tspan
+           id="tspan3596-7-6"
+           y="128.47279"
+           x="92.638031"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-15"
+           y="158.60425"
+           x="92.638031"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-6"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-1"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-7"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-2"
+             xlink:href="#rect3604-5-6"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3619-9">Users create their own shapes on pre-established theme_map_layers..  </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3636-6-2" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-8" /></flowRoot>    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 649.05519,858.50551 c 0.71996,0.62662 12.92723,6.06816 12.92723,6.06816 l 1.34057,-6.06764 -14.2678,-6.2e-4 0,10e-5 z"
+       id="path4587-8-5-8-1-4"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-6.8455616"
+       inkscape:transform-center-y="3.1469291" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4868-0-7"
+       sodipodi:cx="586.42859"
+       sodipodi:cy="-267.99496"
+       sodipodi:rx="6.4285712"
+       sodipodi:ry="6.4285712"
+       d="m 586.43104,-261.56639 c -3.5504,0.001 -6.42967,-2.87572 -6.43102,-6.42613 -0.001,-3.5504 2.87572,-6.42966 6.42612,-6.43102 3.5504,-0.001 6.42967,2.87572 6.43102,6.42613 0.001,3.4419 -2.70855,6.27418 -6.14716,6.42485"
+       sodipodi:start="1.5704154"
+       sodipodi:end="7.8101924"
+       transform="matrix(0.29773922,0.11684121,-0.11684121,0.29773922,441.50271,869.62021)"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56966579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 789.36578,882.75415 63.98629,13.03184"
+       id="path4633-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 790.82449,882.88553 c 0.71995,0.6266 12.92723,6.06815 12.92723,6.06815 l 1.34057,-6.06764 -14.2678,-6.3e-4 0,1.2e-4 z"
+       id="path4587-8-5-8-1-4-6"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-6.8455707"
+       inkscape:transform-center-y="3.1469234" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4868-0-7-8"
+       sodipodi:cx="586.42859"
+       sodipodi:cy="-267.99496"
+       sodipodi:rx="6.4285712"
+       sodipodi:ry="6.4285712"
+       d="m 586.43104,-261.56639 c -3.5504,0.001 -6.42967,-2.87572 -6.43102,-6.42613 -0.001,-3.5504 2.87572,-6.42966 6.42612,-6.43102 3.5504,-0.001 6.42967,2.87572 6.43102,6.42613 0.001,3.4419 -2.70855,6.27418 -6.14716,6.42485"
+       sodipodi:start="1.5704154"
+       sodipodi:end="7.8101924"
+       transform="matrix(0.29773922,0.11684121,-0.11684121,0.29773922,583.27199,894.00022)"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59626341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 665.53912,731.89861 -47.22928,92.40406"
+       id="path4633-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 667.98753,726.76084 c -0.76579,0.56966 -8.68053,11.33951 -8.68053,11.33951 l 5.64329,2.60126 3.03736,-13.94075 -1.2e-4,-2e-5 z"
+       id="path4587-8-5-8-1-4-5"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="4.3891635"
+       inkscape:transform-center-y="6.6646305" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.60797662;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 546.11911,736.25306 43.5709,88.11545"
+       id="path4633-8-8-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 540.65128,725.65005 c -0.0487,0.95319 3.20259,13.91687 3.20259,13.91687 l 5.60178,-2.68951 -8.80426,-11.22744 -1.1e-4,8e-5 z"
+       id="path4587-8-5-8-1-4-5-6-9"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-4.1351127"
+       inkscape:transform-center-y="6.8011922" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56772625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 506.20671,574.47977 28.17936,57.26936"
+       id="path4633-6-5-5"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="44.075102"
+       inkscape:transform-center-y="58.900982" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 500.00981,562.62667 c 0.0323,0.9539 3.88226,13.41082 3.88226,13.41082 l 5.14154,-2.50666 -9.02371,-10.90427 -9e-5,1.1e-4 z"
+       id="path4587-8-5-8-1-4-6-9-6"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-8.2402946"
+       inkscape:transform-center-y="7.644013" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4868-0-7-8-3-7"
+       sodipodi:cx="586.42859"
+       sodipodi:cy="-267.99496"
+       sodipodi:rx="6.4285712"
+       sodipodi:ry="6.4285712"
+       d="m 586.43104,-261.56639 c -3.5504,0.001 -6.42967,-2.87572 -6.43102,-6.42613 -0.001,-3.5504 2.87572,-6.42966 6.42612,-6.43102 3.5504,-0.001 6.42967,2.87572 6.43102,6.42613 0.001,3.4419 -2.70855,6.27418 -6.14716,6.42485"
+       sodipodi:start="1.5704154"
+       sodipodi:end="7.8101924"
+       transform="matrix(-0.22643882,0.22588929,-0.22588929,-0.22643882,571.57667,368.85638)"
+       sodipodi:open="true"
+       inkscape:transform-center-x="-1.7703179"
+       inkscape:transform-center-y="2.4406575" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56966579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 454.33786,673.82811 39.57049,9.53326"
+       id="path4633-6-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 444.99814,671.01491 c 0.69648,0.65259 12.69613,6.53788 12.69613,6.53788 l 1.56207,-6.01443 -14.2582,-0.5236 -10e-6,1.2e-4 z"
+       id="path4587-8-5-8-1-4-6-4"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-6.8368254"
+       inkscape:transform-center-y="3.3711196" />
+    <g
+       id="g3712-0-0"
+       transform="matrix(0.3954101,0,0,0.3954101,633.9486,449.77903)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-2"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-9"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-0"
+         y="100.25907"
+         x="92.247696"
+         style="font-size:31.05654335px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="100.25907"
+           x="92.247696"
+           id="tspan3594-3-9"
+           sodipodi:role="line">Mapfile</tspan><tspan
+           id="tspan3596-7-9"
+           y="139.07976"
+           x="92.247696"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-4"
+           y="177.90044"
+           x="92.247696"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-5"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-10"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-3"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-7"
+             xlink:href="#rect3604-5-5"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3612-0-8">Pre-compiled layers from the City or</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3619-8">where ever.  </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3636-6-6" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-0" /></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56772625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 620.56392,406.95125 66.4951,67.12948"
+       id="path4633-6-5-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 621.39757,407.75013 c 0.33437,0.89396 7.95039,11.47665 7.95039,11.47665 l 4.07579,-4.01334 -12.02613,-7.46341 -5e-5,1e-4 z"
+       id="path4587-8-5-8-1-4-6-9-60"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-5.8648221"
+       inkscape:transform-center-y="5.6760077" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4868-0-7-8-3-9"
+       sodipodi:cx="586.42859"
+       sodipodi:cy="-267.99496"
+       sodipodi:rx="6.4285712"
+       sodipodi:ry="6.4285712"
+       d="m 586.43104,-261.56639 c -3.5504,0.001 -6.42967,-2.87572 -6.43102,-6.42613 -0.001,-3.5504 2.87572,-6.42966 6.42612,-6.43102 3.5504,-0.001 6.42967,2.87572 6.43102,6.42613 0.001,3.4419 -2.70855,6.27418 -6.14716,6.42485"
+       sodipodi:start="1.5704154"
+       sodipodi:end="7.8101924"
+       transform="matrix(0.20608846,0.24459775,-0.24459775,0.20608846,433.73784,318.27984)"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56772625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 761.37796,541.0498 66.57636,68.14755"
+       id="path4633-6-5-7-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 752.88606,533.36716 c 0.3365,0.89317 7.9778,11.4576 7.9778,11.4576 l 4.06618,-4.02307 -12.04395,-7.43463 -3e-5,10e-5 z"
+       id="path4587-8-5-8-1-4-6-9-60-5"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-5.8735831"
+       inkscape:transform-center-y="5.6668361" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4868-0-7-8-3-9-9"
+       sodipodi:cx="586.42859"
+       sodipodi:cy="-267.99496"
+       sodipodi:rx="6.4285712"
+       sodipodi:ry="6.4285712"
+       d="m 586.43104,-261.56639 c -3.5504,0.001 -6.42967,-2.87572 -6.43102,-6.42613 -0.001,-3.5504 2.87572,-6.42966 6.42612,-6.43102 3.5504,-0.001 6.42967,2.87572 6.43102,6.42613 0.001,3.4419 -2.70855,6.27418 -6.14716,6.42485"
+       sodipodi:start="1.5704154"
+       sodipodi:end="7.8101924"
+       transform="matrix(0.20667282,0.2441042,-0.2441042,0.20667282,565.01288,444.34591)"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56966579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 792.67026,641.54529 -50.57374,29.28267"
+       id="path4633-8-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 793.57608,641.02324 c -0.95436,-0.0116 -13.77944,3.75001 -13.77944,3.75001 l 2.90877,5.49112 10.87077,-9.24104 -10e-5,-9e-5 z"
+       id="path4587-8-5-8-1-4-5-0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="6.7431419"
+       inkscape:transform-center-y="4.3477638" />
+    <g
+       id="g3712-0-0-6"
+       transform="matrix(0.3954101,0,0,0.3954101,848.61119,346.99403)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-2-3"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-9-5"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-0-0"
+         y="100.71999"
+         x="90.320686"
+         style="font-size:28.84064674px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="100.71999"
+           x="90.320686"
+           id="tspan3594-3-9-8"
+           sodipodi:role="line">MapfileEditor</tspan><tspan
+           id="tspan3596-7-9-0"
+           y="136.7708"
+           x="90.320686"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-4-4"
+           y="172.82161"
+           x="90.320686"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-5-1"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-10-1"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-3-3"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-7-5"
+             xlink:href="#rect3604-5-5-1"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3612-0-8-9">Pre-compiled layers from the City or</flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3619-8-3">where ever.  </flowPara><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3636-6-6-4" /><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-0-1" /></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.83394432px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="364.36435"
+       y="626.58545"
+       id="text4864-7-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan4866-7-9-5"
+         x="364.36435"
+         y="626.58545">Join table with model attributes</tspan><tspan
+         sodipodi:role="line"
+         x="364.36435"
+         y="632.62787"
+         id="tspan5738" /><tspan
+         sodipodi:role="line"
+         x="364.36435"
+         y="638.67029"
+         id="tspan5740" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.83394432px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="357.11026"
+       y="511.98245"
+       id="text4864-7-3-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan4866-7-9-5-9"
+         x="357.11026"
+         y="511.98245">Single-table inheritance</tspan><tspan
+         sodipodi:role="line"
+         x="357.11026"
+         y="518.0249"
+         id="tspan5773">geo_shape subclasses</tspan><tspan
+         sodipodi:role="line"
+         x="357.11026"
+         y="524.06732"
+         id="tspan5738-0" /><tspan
+         sodipodi:role="line"
+         x="357.11026"
+         y="530.10974"
+         id="tspan5740-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.83394432px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="707.90399"
+       y="820.09406"
+       id="text4864-7-3-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan4866-7-9-5-0"
+         x="707.90399"
+         y="820.09406">Join table with model attributes</tspan><tspan
+         sodipodi:role="line"
+         x="707.90399"
+         y="826.13647"
+         id="tspan5738-06" /><tspan
+         sodipodi:role="line"
+         x="707.90399"
+         y="832.17889"
+         id="tspan5740-4" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.46582758;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:11.72662061, 11.72662061;stroke-dashoffset:0"
+       d="m 350.13992,793.55872 472.07143,0 47.48528,0"
+       id="path5806"
+       sodipodi:nodetypes="ccs" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-3-2"
+       y="769.98529"
+       x="347.50763"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3596-7-1-1-0-4-5"
+         y="769.98529"
+         x="347.50763"
+         sodipodi:role="line">OpenLayers </tspan><tspan
+         y="785.23523"
+         x="347.50763"
+         sodipodi:role="line"
+         id="tspan3990">interface</tspan><tspan
+         id="tspan3598-6-6-3-6-3-1"
+         y="800.48523"
+         x="347.50763"
+         sodipodi:role="line" /></text>
+    <g
+       id="g3712-0-4-1-3"
+       transform="matrix(0.3954101,0,0,0.3954101,390.59273,800.07377)">
+      <rect
+         rx="2.4227273"
+         ry="0"
+         y="62.412693"
+         x="80.812202"
+         height="242.43665"
+         width="212.1321"
+         id="rect2816-2-6-3-0"
+         style="fill:none;stroke:#ae0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3590-6-4-1-0"
+         d="m 86.873119,121.00154 208.091421,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3592-9-2-5-0"
+         y="99.536163"
+         x="110.44379"
+         style="font-size:30.85395432px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="99.536163"
+           x="110.44379"
+           id="tspan3594-3-5-8-2"
+           sodipodi:role="line">User input</tspan><tspan
+           id="tspan3596-7-1-1-2"
+           y="138.10361"
+           x="110.44379"
+           sodipodi:role="line" /><tspan
+           id="tspan3598-6-6-3-2"
+           y="176.67105"
+           x="110.44379"
+           sodipodi:role="line" /></text>
+      <rect
+         ry="2.4227273"
+         y="125.21932"
+         x="91.428574"
+         height="175"
+         width="196.42857"
+         id="rect3604-5-1-3-4"
+         style="fill:none;stroke:#ae0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         id="flowRoot3606-2-3-9-7"
+         style="font-size:12.14986897px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3608-4-7-7-9"><use
+             height="1052.3622"
+             width="744.09448"
+             id="use3610-0-7-5-8"
+             xlink:href="#rect3604-5-1-3-4"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           id="flowPara3639-85-1-9-7">Can be several layers pertaining to one 'theme', such as 'walking path survey'.</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56772625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 419.9616,736.30612 40.94449,87.59924"
+       id="path4633-6-5-7-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23620005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 415.97096,727.51469 c -0.0354,0.95378 2.92122,13.65243 2.92122,13.65243 l 5.30641,-2.13565 -8.22754,-11.51686 -9e-5,8e-5 z"
+       id="path4587-8-5-8-1-4-6-9-60-9"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="-4.0007689"
+       inkscape:transform-center-y="6.7116477" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 749.56085,501.6955 24.58328,-18.28757"
+       id="path5946"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 858.68663,425.24749 880.57175,409.3583"
+       id="path5948"
+       sodipodi:nodetypes="cc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-17-7"
+       y="754.67126"
+       x="348.41928"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="754.67126"
+         x="348.41928"
+         id="tspan3594-3-5-8-24-1-1"
+         sodipodi:role="line">PostGIS</tspan><tspan
+         id="tspan3596-7-1-1-0-11-2"
+         y="769.9212"
+         x="348.41928"
+         sodipodi:role="line" /><tspan
+         id="tspan3598-6-6-3-6-70-1"
+         y="785.1712"
+         x="348.41928"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-3-2-5"
+       y="768.12146"
+       x="705.06488"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         id="tspan3596-7-1-1-0-4-5-3"
+         y="768.12146"
+         x="705.06488"
+         sodipodi:role="line">OpenLayers </tspan><tspan
+         y="783.3714"
+         x="705.06488"
+         sodipodi:role="line"
+         id="tspan3992">interface</tspan><tspan
+         id="tspan3598-6-6-3-6-3-1-8"
+         y="798.6214"
+         x="705.06488"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-17-7-1"
+       y="754.6062"
+       x="706.57605"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="754.6062"
+         x="706.57605"
+         id="tspan3594-3-5-8-24-1-1-1"
+         sodipodi:role="line">WMS</tspan><tspan
+         id="tspan3596-7-1-1-0-11-2-3"
+         y="769.85614"
+         x="706.57605"
+         sodipodi:role="line" /><tspan
+         id="tspan3598-6-6-3-6-70-1-1"
+         y="785.10614"
+         x="706.57605"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3592-9-2-5-7-17-7-0"
+       y="819.86096"
+       x="598.4342"
+       style="font-size:12.19996452px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="819.86096"
+         x="598.4342"
+         id="tspan3594-3-5-8-24-1-1-4"
+         sodipodi:role="line">or</tspan><tspan
+         id="tspan3596-7-1-1-0-11-2-1"
+         y="835.1109"
+         x="598.4342"
+         sodipodi:role="line" /><tspan
+         id="tspan3598-6-6-3-6-70-1-18"
+         y="850.3609"
+         x="598.4342"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>
