@@ -6,11 +6,6 @@
 these are interfaces to complex behaviors (methods or functions) so, they are Classes.
 
 
-Maybe I'm a fool-for-love,
-
-I stumbled upon the realization that the enterprise of finding a good mate is, at its root, 'a numbers game'. There are many 'near-matches' one may spend years pursuing that nevertheless present major obstacles to 'effortless union' such as is found when a more ideal mate is encountered (a low probability that any randomly-met person is of the same mate-type plus age range plus similarly socio-economically and educationally advantaged or dis-advantaged, thus we often opt for a partial solution.
-
-My thesis is, however
 'Asking the Universe for Help' is always a viable option. 
 
 **The Timeless Way of Building (previous book by Christopher Alexander)
@@ -31,8 +26,6 @@ My thesis is, however
 
 poetic descriptions of time-honored solutions that accomodate human needs and social and natural forces for social benefit.
 
-why I became a web developer:
-  I became enamored with the possibilities for community development and enhancement through web-based social networking tools.
-  Being quite visual, I like writing software that has an visual result: 3-D rendering, CSS styling, HTML document structure,                                                                                     
+                                                                               
 
 
