@@ -10,6 +10,7 @@ body {
   text-shadow: 2px 2px 2px #000;
   color: #99bb88;
   background-color: #222222;
+  background-image: url("bg.gif");
   width: 99%;
   padding-top: 20px;
   margin-top: 15px; }
@@ -83,7 +84,7 @@ a:hover img {
   border-top-color: #030303;
   border-right-color: #6a6a6a;
   border-bottom-color: #8c8c8c;
-  box-shadow: 0 0 100px 100px #333333;
+  box-shadow: 0 0 80px 80px #393939;
   -webkit-transition: all 260ms ease-in-out;
   -moz-transition: all 260ms ease-in-out;
   -o-transition: all 260ms ease-in-out;

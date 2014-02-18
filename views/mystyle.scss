@@ -36,6 +36,7 @@ body {
     text-shadow: 2px 2px 2px #000;
     color: $lt_green;
     background-color: $bg_color;
+    /*background-image:url('bg.gif'); */
     width:99%;
     padding-top: 20px;
     margin-top: 15px;
@@ -74,7 +75,18 @@ img {
   border-bottom-color: $border_light + #111;
 }
 
-
+video {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+  border: solid;
+  border-width: 7px;
+  border-color: #000000;
+  border-left-color: $border_shadow;
+  border-top-color: $border_shadow - #050505;
+  border-right-color: $border_light;
+  border-bottom-color: $border_light + #111;
+}
 
 a {
   -moz-user-focus: none;
@@ -90,6 +102,25 @@ a:active {
 
 
 a img {
+  margin-left:auto;
+  margin-right:auto;
+  border-color: #000000;
+  border-width: 7px;
+  margin-bottom: 8px;
+  
+  border-left-color: $border_shadow;
+  border-top-color: $border_shadow - #050505;
+  border-right-color: $border_light;
+  border-bottom-color: $border_light + #111;
+  
+  -webkit-transition: all $transition_time ease-in-out;
+  -moz-transition: all $transition_time ease-in-out;
+  -o-transition: all $transition_time ease-in-out;
+  -ms-transition: all $transition_time ease-in-out;
+  transition: all $transition_time ease-in-out;
+}
+
+a video {
   margin-left:auto;
   margin-right:auto;
   border-color: #000000;
@@ -128,12 +159,26 @@ a:link   { color: $dk_green; }
 a:hover img {
   /*border-color: $lt_green;*/
   border-width: 7px;
-  
   border-left-color: $border_shadow /*- $border_highlight_intensity*/;
   border-top-color: $border_shadow - #111/*- $border_highlight_intensity*/;
   border-right-color: $border_light + $border_highlight_intensity;
   border-bottom-color: $border_light + $border_highlight_intensity + #222;
-  box-shadow: 0 0 100px 100px #333333;
+  box-shadow: 0 0 80px 80px #393939;
+  -webkit-transition: all $transition_time ease-in-out;
+  -moz-transition: all $transition_time ease-in-out;
+  -o-transition: all $transition_time ease-in-out;
+  -ms-transition: all $transition_time ease-in-out;
+  transition: all $transition_time ease-in-out;
+} 
+
+a:hover video {
+  /*border-color: $lt_green;*/
+  border-width: 7px;
+  border-left-color: $border_shadow /*- $border_highlight_intensity*/;
+  border-top-color: $border_shadow - #111/*- $border_highlight_intensity*/;
+  border-right-color: $border_light + $border_highlight_intensity;
+  border-bottom-color: $border_light + $border_highlight_intensity + #222;
+  box-shadow: 0 0 80px 80px #393939;
   -webkit-transition: all $transition_time ease-in-out;
   -moz-transition: all $transition_time ease-in-out;
   -o-transition: all $transition_time ease-in-out;

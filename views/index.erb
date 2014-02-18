@@ -1,6 +1,6 @@
 <% content_for :title do %>
   <title>Paul Sorey - Public Art</title>
-  <meta name='description' content='Paul Sorey has been engaged in public art for twelve years and has many works in Seattle and Washington State' >
+  <meta name='description' content='Paul Sorey has been engaged in public art for fifteen years and has works in the Puget Sound area and several in other states.' >
 <% end %>
 
 <% content_for :body_tag do %>
@@ -17,14 +17,36 @@
 
 <div class='photo_index'>
 
+<script>
+window.onload = function () { 
+var myVideo = document.getElementById('video');
+
+if (typeof myVideo.loop == 'boolean') { // loop supported
+    myVideo.loop = true;
+} else { // loop property not supported
+    myVideo.onended = function () {
+    console.log("looping?");             
+    this.currentTime = 0;
+    this.play();
+    };
+}
+myVideo.play();
+}
+</script>
+
    <a href="SalmonWaves"><img src="salmonWaves/locksThumb.jpg"></a>
    <a href="SalmonWaves">Salmon Waves</a><br /><br /><br />
    
    <a href="FractalTreeArchway"><img src="skagit/skagit_3002_thumb.png"</a>
    <a href="FractalTreeArchway">Fractal Tree Archway</a><br /><br /><br />
    
-   <a href="RoadWorks"><img src="pierceCo/pierce_Thumb.jpg"></a>
+   <a href="RoadWorks"><video id="video" width="206" height="290" loop="true" autoplay>
+	<source src="roadworks_thumb.mp4"  type="video/mp4" />
+	<source src="roadworks_thumb.ogv"  type="video/ogg" />
+
+   </video></a>
    <a href="RoadWorks">RoadWorks</a><br /><br /><br />
+
    
    <a href="Flock"><img src="flock/flockThumb.jpg"</a>
    <a href="Flock">Flock</a><br /><br /><br />
