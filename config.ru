@@ -1,4 +1,4 @@
-require 'paulsorey'
+require './paulsorey'
  
 root_dir = File.dirname(__FILE__)
  
