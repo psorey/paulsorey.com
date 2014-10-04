@@ -1,4 +1,0 @@
-#!/bin/bash
-git status
-git branch
-ssh paul@173.203.108.90 -p 2234 cd paulsorey.com
