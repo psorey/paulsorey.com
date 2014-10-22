@@ -5,81 +5,84 @@
 
 <% content_for :body_tag do %>
   <body class="home">
-<% end %>
+  <% end %>
 
 
-   <h1>Paul Sorey</h1>
-   <h2>Public Artworks</h2>
-   <br />
-   <br />
-   <br />
+  <h1>Paul Sorey</h1>
+  <h2>Public Artworks</h2>
+  <br />
+  <br />
+  <br />
 
 
-<div class='photo_index'>
+  <div class='photo_index'>
 
-<script>
-window.onload = function () { 
-var myVideo = document.getElementById('video');
+    <script>
+      window.onload = function () { 
+        var myVideo = document.getElementById('video');
 
-if (typeof myVideo.loop == 'boolean') { // loop supported
-    myVideo.loop = true;
-} else { // loop property not supported
-    myVideo.onended = function () {
-    console.log("looping?");             
-    this.currentTime = 0;
-    this.play();
-    };
-}
-myVideo.play();
-}
-</script>
+        if (typeof myVideo.loop == 'boolean') { // loop supported
+          myVideo.loop = true;
+          } else { // loop property not supported
+          myVideo.onended = function () {
+            console.log("looping?");             
+            this.currentTime = 0;
+            this.play();
+          };
+        }
+        myVideo.play();
+      }
+    </script>
 
-   <a href="SalmonWaves"><img src="salmonWaves/locksThumb.jpg"></a>
-   <a href="SalmonWaves">Salmon Waves</a><br /><br /><br />
-   
-   <a href="FractalTreeArchway"><img src="skagit/skagit_3002_thumb.png"</a>
-   <a href="FractalTreeArchway">Fractal Tree Archway</a><br /><br /><br />
-   
-   <a href="RoadWorks"><video id="video" width="206" height="290" poster="pierceCo/pierce_Thumb.jpg" loop="true" autoplay>
-        <source src="roadworks_thumb.m4v"  type="video/mp4" />
-        <source src="roadworks_thumb.webm" type="video/webm" />
-	<source src="roadworks_thumb.ogv"  type="video/ogg" />
+    <a href="SalmonWaves"><img src="salmonWaves/locksThumb.jpg"></a>
+    <a href="SalmonWaves">Salmon Waves</a><br /><br /><br />
 
-   </video></a>
+    <a href="Fractal Tree"><img src="austin/austin_1_thumb.jpg"></a>
+    <a href="Fractal Tree">Fractal Tree</a><br /><br /><br />
 
-   <a href="RoadWorks">RoadWorks</a><br /><br /><br />
-   
-   <a href="Flock"><img src="flock/flockThumb.jpg"</a>
-   <a href="Flock">Flock</a><br /><br /><br />
-   
-   <a href="CoffeePotPergola"><img src="coffeePot/coffeePotThumb.jpg"</a>
-   <a href="CoffeePotPergola">Coffee Pot Pergola</a><br /><br /><br />
-   
-   <a href="TreeBench"><img src="treeBench/treeBenchThumb.jpg"</a>
-   <a href="TreeBench">Tree Bench</a><br /><br /><br />
+    <a href="FractalTreeArchway"><img src="skagit/skagit_3002_thumb.png"</a>
+    <a href="FractalTreeArchway">Fractal Tree Archway</a><br /><br /><br />
 
-   <a href="JusticeGardenPath"><img src="rjc/rjcThumb.jpg"></a>
-   <a href="JusticeGardenPath">Justice Garden Path</a><br /><br /><br />
- 
-   <a href="CribbageBenches"><img src="cribbage/cribbageBenchesThumb.jpg"</a>
-   <a href="CribbageBenches">Cribbage Benches</a><br /><br /><br />
-   
-   <a href="PacificFountain"><img src="pacific/pacificFountainThumb.jpg"</a>
-   <a href="PacificFountain">Pacific Fountain</a><br /><br /><br />
-   
-   <a href="DogwoodFountain"><img src="dogwood/dogwoodDetailThumb.jpg"</a>
-   <a href="DogwoodFountain">Dogwood Flower Fountain</a><br /><br /><br />
-   
-   <a href="AuburnFigures"><img src="auburn/businessPersonThumb.jpg"</a>
-   <a href="AuburnFigures">Auburn Figures</a><br /><br /><br />
-   
-   <a href="SustainabilityArtwork"><img src="sustainability/sustain.jpg"></a>
-   <a href="SustainabilityArtwork">Sustainability Award</a><br /><br /><br />
-   
-   <a href="LongfellowCreek"><img src="longfellow/longfellowThumb.jpg"></a>
-   <a href="LongfellowCreek">Longfellow Creek Gateways</a><br /><br /><br />
-   
-   <a href="FlowerSculpture"><img src="flowers/delicateFlowerThumb.jpg"></a>
-   <a href="FlowerSculpture">Flower Sculptures</a><br /><br /><br />
+    <a href="RoadWorks"><video id="video" width="206" height="290" poster="pierceCo/pierce_Thumb.jpg" loop="true" autoplay>
+      <source src="roadworks_thumb.m4v"  type="video/mp4" />
+      <source src="roadworks_thumb.webm" type="video/webm" />
+      <source src="roadworks_thumb.ogv"  type="video/ogg" />
 
-</div>
+      </video></a>
+
+      <a href="RoadWorks">RoadWorks</a><br /><br /><br />
+
+      <a href="Flock"><img src="flock/flockThumb.jpg"</a>
+      <a href="Flock">Flock</a><br /><br /><br />
+
+      <a href="CoffeePotPergola"><img src="coffeePot/coffeePotThumb.jpg"</a>
+      <a href="CoffeePotPergola">Coffee Pot Pergola</a><br /><br /><br />
+
+      <a href="TreeBench"><img src="treeBench/treeBenchThumb.jpg"</a>
+      <a href="TreeBench">Tree Bench</a><br /><br /><br />
+
+      <a href="JusticeGardenPath"><img src="rjc/rjcThumb.jpg"></a>
+      <a href="JusticeGardenPath">Justice Garden Path</a><br /><br /><br />
+
+      <a href="CribbageBenches"><img src="cribbage/cribbageBenchesThumb.jpg"</a>
+      <a href="CribbageBenches">Cribbage Benches</a><br /><br /><br />
+
+      <a href="PacificFountain"><img src="pacific/pacificFountainThumb.jpg"</a>
+      <a href="PacificFountain">Pacific Fountain</a><br /><br /><br />
+
+      <a href="DogwoodFountain"><img src="dogwood/dogwoodDetailThumb.jpg"</a>
+      <a href="DogwoodFountain">Dogwood Flower Fountain</a><br /><br /><br />
+
+      <a href="AuburnFigures"><img src="auburn/businessPersonThumb.jpg"</a>
+      <a href="AuburnFigures">Auburn Figures</a><br /><br /><br />
+
+      <a href="SustainabilityArtwork"><img src="sustainability/sustain.jpg"></a>
+      <a href="SustainabilityArtwork">Sustainability Award</a><br /><br /><br />
+
+      <a href="LongfellowCreek"><img src="longfellow/longfellowThumb.jpg"></a>
+      <a href="LongfellowCreek">Longfellow Creek Gateways</a><br /><br /><br />
+
+      <a href="FlowerSculpture"><img src="flowers/delicateFlowerThumb.jpg"></a>
+      <a href="FlowerSculpture">Flower Sculptures</a><br /><br /><br />
+
+    </div>

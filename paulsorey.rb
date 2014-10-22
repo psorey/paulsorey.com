@@ -9,6 +9,10 @@ get '/' do
   erb :index
 end
 
+get '/index' do
+  erb :index
+end
+
 get '/mystyle.css' do
   scss :mystyle
 end
@@ -38,7 +42,7 @@ get '/ZebraTime' do
 end
 
 get '/SalmonLEDs' do
-   erb :salmon_led, :layout => :layout_web_dev
+   erb :salmn_led, :layout => :layout_web_dev
 end
 
 get '/RoadWorksLEDs' do
