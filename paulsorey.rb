@@ -112,3 +112,7 @@ end
 get '/ArtworkLocations' do
   erb :locations
 end
+
+get '/Contact' do
+  erb :contact
+end
